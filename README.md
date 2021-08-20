@@ -35,7 +35,7 @@ For the original VBA script we can see how we create 3 loops to complete the dat
 
 ![code original](https://user-images.githubusercontent.com/87447639/130270595-10722c63-4484-45e9-a4d8-6e108de21713.PNG)
 
-In the opposite case for the refactored scrip when created the variables "tickerVolumes" "tickerStartingPrices " "tickerEndingPrices' at the begin of the code and we created conditionals usisg those variables (only two loop) the code ran faster.
+For the refactored scrip when we created the variables "tickerVolumes" "tickerStartingPrices " & "tickerEndingPrices' at the begin of the code, and we created conditionals using those variables the code ran faster. In this case we only need to create two conditionals.
 
 ![Variables](https://user-images.githubusercontent.com/87447639/130270642-84673f7b-ee26-4cfa-9311-e0fc104bca43.PNG)
 
