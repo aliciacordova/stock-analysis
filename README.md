@@ -64,3 +64,6 @@ For the execution of times between the original script and the refactored one, w
 For Steve's analysis, refactoring of the code was beneficial since after modifying the code, understanding it and placing it in a simpler way, we could notice how the time to process to run a macro it was significantly shortened. Additionally, by refactoring the code, any other developer can use it and understand it more easily.
 
 On the contrary, when refactoring the code, it can be time consuming and it can take longer than desired. It is possible that errors are made or part of the code is erased without wishing to do so. That is why when modifying a code you must be clear about the objectives to change it and be very carefully to any changes.
+
+Aditionally, another benefit of refactoring the VBA is that Steve could now use this macro in the future to run larger data sets for any year. Although it took a longer time to determine the new variables and change the original script, but the execution of times between the original script and the refactored one, we can see how the time can be optimized and obtain the fastest result for both years. It is important to be very careful when making any changes.
+
